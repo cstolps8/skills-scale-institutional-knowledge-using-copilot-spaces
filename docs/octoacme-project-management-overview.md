@@ -16,9 +16,17 @@ Applies to all cross-functional projects that deliver product features, services
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Engineering Manager / Tech Lead: provides technical direction, architecture oversight, and mentoring.
 - Developers: implement features, collaborate on design and testability.
+- UX / UI Designer: creates user flows, design specs, and validates implementation fidelity.
 - QA/Testing: validate quality and acceptance criteria.
+- DevOps / Platform Engineer: owns CI/CD, environments, and deployment automation.
+- Security / Compliance Lead: owns threat modeling, security controls, and compliance checkpoints.
+- Customer Support / Operations Representative: surfaces customer pain points and ensures support readiness.
+- Data Analyst / Analytics Owner: defines success metrics, validates instrumentation, and publishes insights.
 - Stakeholders: provide inputs and approvals.
+
+See [Roles and Personas](octoacme-roles-and-personas.md) for full role definitions.
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -26,6 +34,9 @@ Applies to all cross-functional projects that deliver product features, services
 - Sprint/Iteration Backlog
 - Acceptance Criteria & Definition of Done
 - Risk Register
+- Decision Log (see [Decision Log Template](octoacme-decision-log-template.md))
+- Phase Gate Sign-offs (see [Phase Gates Checklist](octoacme-phase-gates-checklist.md))
+- Handoff Records (see [Handoff Checklist](octoacme-handoff-checklist.md))
 - Retrospective notes and action items
 
 ## Lifecycle (high-level)
@@ -43,4 +54,8 @@ Applies to all cross-functional projects that deliver product features, services
 
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
+- Log significant decisions using the [Decision Log Template](octoacme-decision-log-template.md) throughout the lifecycle.
+- Use the [Phase Gates Checklist](octoacme-phase-gates-checklist.md) to confirm readiness before transitioning between lifecycle phases.
+- Use the [Handoff Checklist](octoacme-handoff-checklist.md) to ensure clean knowledge and accountability transfer at each phase boundary.
+- Refer to [Roles and Personas](octoacme-roles-and-personas.md) for full role definitions and interaction models for all team members.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
