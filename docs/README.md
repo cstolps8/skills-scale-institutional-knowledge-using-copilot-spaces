@@ -9,12 +9,12 @@ This folder captures OctoAcme's lightweight, structured project management proce
 4. **Release**: ship with release readiness checks (acceptance criteria complete, CI/security passing, release notes, rollback planning, staged verification, and post-deploy checks).
 5. **Retrospective**: after sprints, releases, or incidents, capture lessons learned and convert them into tracked action items with owners and due dates.
 
-## Role Clarity
-- **Project Managers (PMs)**: coordinate delivery plans, schedules, risks, dependencies, and status communication.
-- **Product Managers (PdMs)**: define outcomes, prioritize roadmap/backlog, and measure business/customer impact.
-- **Developers**: design, implement, review, and test features while contributing to estimates and technical risk mitigation.
-- **QA/Testing**: validate acceptance criteria, run functional/regression checks, and confirm release readiness.
-- **Stakeholders**: provide domain input, decisions, and approvals at key milestones.
+## Roles and Ownership
+- **Project Managers (PMs)**: own delivery coordination, schedules, risk/dependency tracking, and status communication.
+- **Product Managers (PdMs)**: own product outcomes, roadmap/backlog prioritization, and impact measurement.
+- **Developers**: own technical implementation quality (design, code, reviews, and automated testing) and contribute to estimates and risk mitigation.
+- **QA/Testing**: own acceptance validation, functional/regression verification, and release readiness confirmation.
+- **Stakeholders**: own timely business/domain input, milestone decisions, and required approvals.
 
 ## Communication Cadence and Escalation
 - Daily (or twice-weekly) standups for progress, blockers, and dependencies.
