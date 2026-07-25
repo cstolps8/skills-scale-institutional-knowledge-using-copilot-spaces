@@ -36,3 +36,19 @@ This folder captures OctoAcme's lightweight, structured project management proce
 
 ## Continuous Improvement
 Retrospectives are part of normal delivery cadence, not optional postmortems. Teams track improvement actions in backlog items or issues, assign owners and due dates, and review progress in weekly syncs.
+
+## Process Documents
+
+| Document | Purpose |
+|---|---|
+| [Project Management Overview](octoacme-project-management-overview.md) | Introduction to OctoAcme's approach, roles, and key artifacts |
+| [Project Initiation](octoacme-project-initiation.md) | Steps to validate and authorize a new project |
+| [Project Planning](octoacme-project-planning.md) | How to break work into shippable increments |
+| [Execution & Tracking](octoacme-execution-and-tracking.md) | Day-to-day delivery management and project board workflow |
+| [Release & Deployment](octoacme-release-and-deployment.md) | Release readiness checks and deployment process |
+| [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Capturing learnings and tracking improvement actions |
+| [Risks & Communication](octoacme-risks-and-communication.md) | Risk register standards and communication cadence |
+| [Roles & Personas](octoacme-roles-and-personas.md) | Full role definitions and interaction models for all team members |
+| [Decision Log Template](octoacme-decision-log-template.md) | Template and cadence for logging significant project decisions |
+| [Phase Gates Checklist](octoacme-phase-gates-checklist.md) | Entry and exit criteria for each lifecycle phase |
+| [Handoff Checklist](octoacme-handoff-checklist.md) | Checklist for clean handoffs at each phase boundary |
