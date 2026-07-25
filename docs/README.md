@@ -26,7 +26,7 @@ This folder captures OctoAcme's lightweight, structured project management proce
 ## Risk Management and Single Source of Truth
 - Risks are tracked in a living **risk register** with columns for ID, description, impact (High/Med/Low), likelihood (High/Med/Low), owner, mitigation plan, and status.
 - The register is reviewed weekly and updated as risks are identified, assessed, mitigated, or resolved.
-- Escalation path: **Team-level triage -> PM -> Product Lead -> Sponsor**. Security incidents follow the security incident runbook and notify the Security on-call team.
+- Security incidents follow the security incident runbook and notify the Security on-call team, while non-security escalations follow the standard path defined above.
 - Maintain a **single source of truth** for project status (project README or release doc). Use standard templates for weekly status updates (progress, next steps, risks/blockers, decisions needed) and incident communications to keep decisions and asks visible to all stakeholders.
 
 ## Quality and Release Discipline
